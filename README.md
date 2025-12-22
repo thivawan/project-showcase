@@ -91,7 +91,7 @@ SilverCare is a school project built as an elderly care services booking portal,
 **Tech Stack**
 - Java (JSP & Servlets)
 - MySQL
-- HTML, CSS
+- HTML, CSS, Java Script
 
 **Key Features**
 - Customer login & registration  
